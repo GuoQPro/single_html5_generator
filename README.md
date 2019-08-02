@@ -9,6 +9,5 @@ a solution to generate single html5 file from Cocos Creator
 
 2. copy `build-templates` and `html_generator` to the project root path.
 	
-3. `python3 integrate_res_in_html.py`
-4. if the html file size exceeds the 2M limit, resource compress is required:
-	- Images: [TinyPNG](https://tinypng.com/ "TinyPNG")
+3. `python3 integrate_res_in_html.py [tinify_pic]` 
+
